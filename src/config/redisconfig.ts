@@ -1,3 +1,7 @@
+// redis is a software which is used as a message broker 
+
+
+
 import Redis from "ioredis";
 
 import ServerConfig from './serverconfig';
